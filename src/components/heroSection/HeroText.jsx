@@ -211,7 +211,7 @@ const HeroText = () => {
         <motion.button
           onClick={() => {
             const link = document.createElement('a');
-            link.href = '/Sonu-Kumar-Resume.pdf';
+            link.href = './Sonu-Kumar-Resume.pdf';
             link.download = 'Sonu-Kumar-Resume.pdf';
             document.body.appendChild(link);
             link.click();
@@ -232,7 +232,7 @@ const HeroText = () => {
         {/* View Resume Button */}
         <motion.button
           onClick={() => {
-            window.open('/Sonu-Kumar-Resume.pdf', '_blank');
+            window.open('./Sonu-Kumar-Resume.pdf', '_blank');
           }}
           whileHover={{ scale: 1.05, y: -2 }}
           whileTap={{ scale: 0.95 }}
