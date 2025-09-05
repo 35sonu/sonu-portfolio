@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! This site showcases my work, skills, and passion for AI/DS, machine learning, and full-stack development.
 
 ## 🚀 Live Demo  
-👉 [View Portfolio](https://your-portfolio-link.com)  
+👉 [View Portfolio](https://35sonu.github.io/sonu-portfolio/)  
 
 ---
 
