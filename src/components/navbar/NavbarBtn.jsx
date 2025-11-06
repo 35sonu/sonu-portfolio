@@ -4,7 +4,7 @@ const NavbarBtn = () => {
   const handleDownloadResume = () => {
     // Create a link element and trigger download
     const link = document.createElement('a');
-    link.href = './Sonu-Kumar-Resume.pdf';
+    link.href = '/sonu-portfolio/Sonu-Kumar-Resume.pdf';
     link.download = 'Sonu-Kumar-Resume.pdf';
     document.body.appendChild(link);
     link.click();

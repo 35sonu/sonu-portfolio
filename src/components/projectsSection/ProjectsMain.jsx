@@ -6,6 +6,25 @@ const ProjectsMain = () => {
   const projects = [
     {
       id: 1,
+      name: "Student Performance Analysis",
+      year: "2024",
+      description: "ML-powered academic performance predictor and analytics system",
+      technologies: ["Python", "Pandas", "Scikit-learn", "Matplotlib", "Excel"],
+      achievements: [
+        "Linear Regression model with 59.9% accuracy (R² score)",
+        "Identified attendance as strongest predictor (0.99 correlation)",
+        "Analyzed 200 students to provide early-warning system"
+      ],
+      links: {
+        github: "github.com/35sonu/Student-Performance-Analysis",
+        demo: "#"
+      },
+      gradientColors: ["#8b5cf6", "#7c3aed", "#6d28d9"], // Purple to Violet
+      accentColor: "from-purple-500 to-violet-600"
+    },
+
+    {
+      id: 2,
       name: "WasteWise – Smart Waste Management Platform",
       year: "2024",
       description: "AI-powered waste classifier with smart management dashboard",
@@ -16,7 +35,7 @@ const ProjectsMain = () => {
         "Admin dashboard with data filters and optimized routes"
       ],
       links: {
-        github: "https://github.com/35sonu/WasteWise",
+        github: "github.com/35sonu/Smart-Waste-Management",
         demo: "#"
       },
       gradientColors: ["#10b981", "#059669", "#047857"], // Green to Emerald to Teal
@@ -24,7 +43,7 @@ const ProjectsMain = () => {
     },
 
     {
-      id: 2,
+      id: 3,
       name: "Affiliate Postback Tracking System",
       year: "2024",
       description: "Real-time affiliate tracking system for clicks and conversions",
@@ -43,7 +62,26 @@ const ProjectsMain = () => {
     },
 
     {
-      id: 3,
+      id: 4,
+      name: "QuoteSpace – Daily Quote App",
+      year: "2024",
+      description: "Beautiful React Native app for daily motivation and inspiration",
+      technologies: ["React Native", "AsyncStorage", "Axios", "React Navigation"],
+      achievements: [
+        "Integrated quotable.io API with smooth animations",
+        "Local favorites management with AsyncStorage",
+        "10+ animated gradient backgrounds with share functionality"
+      ],
+      links: {
+        github: "github.com/35sonu/QuoteSpace-React-Native-App",
+        demo: "#"
+      },
+      gradientColors: ["#ec4899", "#f43f5e", "#ef4444"], // Pink to Rose to Red
+      accentColor: "from-pink-500 to-rose-600"
+    },
+
+    {
+      id: 5,
       name: "Smart Farming Platform",
       year: "2024",
       description: "Android app connecting farmers with markets and AI support",

@@ -26,7 +26,7 @@ const AboutMeText = () => {
         variants={fadeIn("up", 0.5)}
         className="max-w-2xl text-base sm:text-lg text-gray-700 dark:text-gray-300 leading-relaxed"
       >
-        I'm <strong>Sonu Kumar</strong>, a passionate  4th Year Computer Science student specializing in AI/DS  and Full‑Stack Development. I build innovative applications leveraging machine learning, modern web technologies, and smart solutions for real-world problems.
+        I'm <strong>Sonu Kumar</strong>, a Trainee Decision Scientist at <strong>Mu Sigma</strong> with expertise in Data Analytics, Machine Learning, and Full-Stack Development. I transform complex data into actionable insights and build intelligent solutions that drive business decisions.
       </motion.p>
 
       {/* What I Bring */}
@@ -41,7 +41,13 @@ const AboutMeText = () => {
           <li className="flex items-start gap-3">
             <FiChevronRight className="mt-1 text-cyan-500" size={20} />
             <span className="text-gray-700 dark:text-gray-300">
-              <strong>AI & Machine Learning:</strong> Built CNN models with 94% accuracy for image classification using TensorFlow. Experienced with computer vision, natural language processing, and data analysis.
+              <strong>Data Analytics & ML:</strong> Expertise in Python, Pandas, Scikit-learn for predictive modeling. Built ML models with 59.9% R² accuracy for student performance analysis. Proficient in statistical analysis and data visualization.
+            </span>
+          </li>
+          <li className="flex items-start gap-3">
+            <FiChevronRight className="mt-1 text-cyan-500" size={20} />
+            <span className="text-gray-700 dark:text-gray-300">
+              <strong>AI & Deep Learning:</strong> Built CNN models with 94% accuracy using TensorFlow and MobileNetV2. Experience in computer vision, NLP, and developing intelligent systems for real-world applications.
             </span>
           </li>
           <li className="flex items-start gap-3">
