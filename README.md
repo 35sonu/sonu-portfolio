@@ -118,7 +118,7 @@ If you'd like to collaborate, provide feedback, or just connect:
 📧 **Email**: work.sonukumar03@gmail.com  
 📱 **Phone**: +91 6299461913  
 📍 **Location**: Greater Noida, UP, India  
-💼 **LinkedIn**: [linkedin.com/in/sonu-kumar](https://linkedin.com/in/sonu-kumar)  
+💼 **LinkedIn**: [linkedin.com/in/sonu-kumar](https://www.linkedin.com/in/sonu-kumar-s3540/)  
 💻 **GitHub**: [github.com/35sonu](https://github.com/35sonu)  
 🔗 **LeetCode**: [leetcode.com/u/35sonu](https://leetcode.com/u/35sonu/)  
 🎓 **Portfolio**: [Portfolio Website](https://35sonu.github.io/sonu-portfolio/)
