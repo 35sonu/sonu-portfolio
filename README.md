@@ -121,5 +121,5 @@ If you'd like to collaborate, provide feedback, or just connect:
 💼 **LinkedIn**: [linkedin.com/in/sonu-kumar](https://linkedin.com/in/sonu-kumar)  
 💻 **GitHub**: [github.com/35sonu](https://github.com/35sonu)  
 🔗 **LeetCode**: [leetcode.com/u/35sonu](https://leetcode.com/u/35sonu/)  
-🎓 **Portfolio**: [Portfolio Website](https://your-portfolio-link.com)
+🎓 **Portfolio**: [Portfolio Website](https://35sonu.github.io/sonu-portfolio/)
 
